@@ -1,3 +1,5 @@
 9/14/23 - Elected scrum master, organized information, coordinated a meeting with Dr. Brown, and we set up our Github.
 
 9/15/23 - Met with Dr. Brown to discuss the system requirements and operation. Team meeting to discuss basic ideas and get ready for our next meeting Tuesday.
+
+9/19/23 - In class meeting to discuss our requirements, backlog, and vision statement. We also divided the tasks between the team members. I am in charge of the casing and have begun researching capable cases we can use.
