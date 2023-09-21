@@ -3,3 +3,5 @@
 9/15/23 - Met with Dr. Brown to discuss the system requirements and operation. Team meeting to discuss basic ideas and get ready for our next meeting Tuesday.
 
 9/19/23 - In class meeting to discuss our requirements, backlog, and vision statement. We also divided the tasks between the team members. I am in charge of the casing and have begun researching capable cases we can use.
+
+9/21/23 - In class meeting in which we reviewed the progress we made on our respective tasks. I am in charge of the SDD which is due the 19th. Added the template to the github as a base for our SDD.
