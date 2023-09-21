@@ -3,7 +3,7 @@ Option 8 - Capstone Project - CS490 ERAU
 
 Vision Statement
 
-Produce a handheld ultrasound inspection device for inspecting a bridge/structural component for faults in the field. This handheld unit gathers and stores test data colected over time 72 hours.
+Produce a handheld ultrasound inspection device for inspecting a bridge/structural component for faults in the field. This handheld unit gathers and stores test data collected over time 72 hours.
 
 Product Backlog
 
