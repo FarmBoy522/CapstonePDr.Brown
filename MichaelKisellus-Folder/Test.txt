@@ -30,3 +30,9 @@
 •	Work on design for electrical system (Lithium-ion batteries chosen)
 •	Correct vision statement
 •	Correct the backlog and add sprint designations
+26sep
+•	Note: a lot of work done this weekend. Draft of electrical system, draft of front panel, list of parts, capacitor size calculation, SDS drafted.
+•	Discuss project status
+•	Assign personal to SDD and SRS, placed on google drive for editing
+•	Schedule meeting with client for Friday at 1300 for status update and technical questions.
+
