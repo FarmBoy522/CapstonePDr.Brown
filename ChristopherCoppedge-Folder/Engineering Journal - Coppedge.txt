@@ -5,3 +5,7 @@
 9/19/23 - In class meeting to discuss our requirements, backlog, and vision statement. We also divided the tasks between the team members. I am in charge of the casing and have begun researching capable cases we can use.
 
 9/21/23 - In class meeting in which we reviewed the progress we made on our respective tasks. I am in charge of the SDD which is due the 19th. Added the template to the github as a base for our SDD.
+
+9/26/23 - In class meeting where we reviewed our progress on our respective tasks. This included ensuring everyone's ideas would meet the requirements and functionality we need. Then we started working on our respective tasks which for me was the SDD.
+
+9/28/23 - Worked on the SDD. Then we had an in-class meeting discussing our progress on our respective tasks. We then all started to work on the SDD and SRS as the first version of those documents are due tomorrow. 
