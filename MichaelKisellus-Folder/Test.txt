@@ -1,1 +1,38 @@
-Test Document - Hello!
+
+26Aug-7Sep
+•	Review and apply for projects
+•	Review scrum
+•	Review documentation requirements
+12Sep
+•	Assigned a project with group 8 (Portable Ultrasound Device for Coda-Wave Interferometry)
+•	Familiarize myself with the team members
+•	Discuss project with team
+•	Read over project details
+•	Create GitHub
+14Sep
+•	Establish communication with team (discord)
+•	Link GitHub accounts and review GitHub operation with team 
+•	Establish communication with client (Professor Brown) through email
+•	Set up meeting with client to review the project and establish the projects requirements.
+•	Draft generic project vision and backlog based on provided information (final copy will be produced after meeting with client)
+•	Chose scrum leader through vote (Kisellus)
+15Sep 
+•	Meet with the client and confirmed project scope and requirements. 
+•	Completed draft for product vision and product backlog.
+19Sep
+•	 Ask teacher if budget comes purely from client.
+•	 Confirm with team that the product vision and backlog are correct. Modify as required.
+•	 Rank tasks by importance and determine which team members are best suited to each task.
+•	 Delegate tasks to begin work/design/research.
+•	 Start getting a parts list to estimate price. (Estimated 2-week completion for estimate)
+•	 Create project backlog through the issue system and assign tasks. 
+21Sep
+•	Work on design for electrical system (Lithium-ion batteries chosen)
+•	Correct vision statement
+•	Correct the backlog and add sprint designations
+26sep
+•	Note: a lot of work done this weekend. Draft of electrical system, draft of front panel, list of parts, capacitor size calculation, SDS drafted.
+•	Discuss project status
+•	Assign personal to SDD and SRS, placed on google drive for editing
+•	Schedule meeting with client for Friday at 1300 for status update and technical questions.
+
