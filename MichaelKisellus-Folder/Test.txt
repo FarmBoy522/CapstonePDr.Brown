@@ -35,4 +35,14 @@
 •	Discuss project status
 •	Assign personal to SDD and SRS, placed on google drive for editing
 •	Schedule meeting with client for Friday at 1300 for status update and technical questions.
+28sep
+•	SDD and SRS document work
+29sep
+•	Meeting with client
+•	Verify pulse shape
+(2microsecond pulse wait and record for 100 microseconds then repeat 50 times)
+•	Request to audit parts list prior to approval
+•	Possible expansion to multiple sensors in the future (possibly next semester)
+1oct
+•	Audit parts list and reconfirm calculations.
 
