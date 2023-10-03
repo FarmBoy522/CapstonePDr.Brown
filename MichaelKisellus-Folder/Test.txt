@@ -45,4 +45,7 @@
 •	Possible expansion to multiple sensors in the future (possibly next semester)
 1oct
 •	Audit parts list and reconfirm calculations.
+3oct
+•	Sprint power point presentation draft.
+•	Schedule meeting with client to retrieve test equipment.
 
