@@ -9,3 +9,7 @@
 9/26/23 - In class meeting where we reviewed our progress on our respective tasks. This included ensuring everyone's ideas would meet the requirements and functionality we need. Then we started working on our respective tasks which for me was the SDD.
 
 9/28/23 - Worked on the SDD. Then we had an in-class meeting discussing our progress on our respective tasks. We then all started to work on the SDD and SRS as the first version of those documents are due tomorrow. 
+
+10/3/23 - Team meeting and coordination of the sprint 1 presentation. I created the background section of the presentation and made the drive that will house our shared documents.
+
+10/5/23 - Presentation of the sprint 1 progress. Also arranging the components in CAD.
