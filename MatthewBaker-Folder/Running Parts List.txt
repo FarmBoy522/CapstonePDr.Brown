@@ -19,4 +19,10 @@ https://www.digikey.com/en/products/detail/orion-fans/OD8025-12HBIP55/2707577
 Cost @ MetalsDepot.com: $32.36
 https://www.metalsdepot.com/aluminum-products/aluminum-sheet
 
+EMC2101 PC Fan controller and temperature sensor (w/STEMMA QT/JST 4pin cable and headers)
+Product ID: 4808
+Cost: $5.50/unit+0.95 headers+0.95 cables, $14.80 Total
+https://www.adafruit.com/product/4808
+
+
 
