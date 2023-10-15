@@ -53,4 +53,16 @@
 6oct
 •	Speak with client and verify parts list. (start purchase process)
 •	Obtain test equipment
+10oct
+•	No Class: career fair.
+12Oct
+•	Modify electrical schematic.
+•	Speak to TA and professor for the majority of the class. To identify weak points.
+14Oct
+•	Draft test plan
+•	Run simulation on LTspice to verify capacitor behavior.
+15Oct
+•	Draft test plan (15 pages)
+
+
 
