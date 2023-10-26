@@ -23,3 +23,7 @@
 10/18/23 - Worked on the test plan to help ensure it is ready for submission.
 
 10/22/23 - Helped develop the SRS.
+
+10/24/23 - Working on Tax exempt purchases. Made some additions to the SDD.
+
+10/26/23 - In class meeting - Went to the SGA to pick up the tax exempt paperwork - Helped compile individual parts lists into a single master list.
