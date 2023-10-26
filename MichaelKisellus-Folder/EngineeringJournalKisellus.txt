@@ -63,6 +63,15 @@
 •	Run simulation on LTspice to verify capacitor behavior.
 15Oct
 •	Draft test plan (15 pages)
+17Oct
+•	Review test plan with team
+•	Discuss solutions to sampling/data problem
+•	Revise SDD
+20Oct 
+•	Revise SDD based on feedback from TA
+21Oct 
+•	Revise SDD based on feedback from TA
+
 
 
 
