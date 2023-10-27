@@ -71,6 +71,10 @@
 •	Revise SDD based on feedback from TA
 21Oct 
 •	Revise SDD based on feedback from TA
+24Oct
+•	Revise SRS
+27Oct
+•	Sprint_v2 draft
 
 
 
