@@ -26,4 +26,6 @@
 
 10/24/23 - Working on Tax exempt purchases. Made some additions to the SDD.
 
-10/26/23 - In class meeting - Went to the SGA to pick up the tax exempt paperwork - Helped compile individual parts lists into a single master list.
+10/26/23 - In class meeting - Went to the SGA to pick up the tax exempt paperwork - Helped compile individual parts lists into a single master list. Sent out emails to parts supplier to get recognition of tax exempt status.
+
+10/31/23 - In class meeting - Worked on SDD and SRS. Also sent follow up emails to digikey and eco-worthy to see if there are any updates to our attempt to get tax-exempt status.
