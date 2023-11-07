@@ -28,4 +28,10 @@
 
 10/26/23 - In class meeting - Went to the SGA to pick up the tax exempt paperwork - Helped compile individual parts lists into a single master list. Sent out emails to parts supplier to get recognition of tax exempt status.
 
-10/31/23 - In class meeting - Worked on SDD and SRS. Also sent follow up emails to digikey and eco-worthy to see if there are any updates to our attempt to get tax-exempt status.
+10/31/23 - In class meeting - Worked on SDD and SRS. Also sent follow up emails to digikey and eco-worthy to see if there are any updates to our attempt to get tax-exempt status. Also worked on sprint 2 demo presentation.
+
+11/2/23 - Presented sprint 2 demo, no updates to getting tax-exempt status with any supplier other than Amazon.
+
+11/3/23 - DigiKey replied that our account has been marked as text exempt.
+
+11/7/23 - Ordered digi-key parts from our list and made sure the receipt gets to Dr. Brown.
