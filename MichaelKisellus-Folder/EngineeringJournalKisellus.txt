@@ -79,6 +79,16 @@
 •	Review parts list, produce alternatives if Digi key tax free status does not occur.
 1Nov
 •	Sprint 2 presentation.
+7Nov
+•	Order parts
+•	Convert some parts to tax free websites. Client requires tax free.
+9Nov
+•	Verify parts ordered using correct product code and correct quantity.
+14Nov
+•	Verify components values match expectation/ test parts individually.
+16Nov to 19 Nov
+•	Begin soldering components/ assemble electrical circuits.
+•	Verify electrical circuits function correctly.
 
 
 
