@@ -35,3 +35,16 @@
 11/3/23 - DigiKey replied that our account has been marked as text exempt.
 
 11/7/23 - Ordered digi-key parts from our list and made sure the receipt gets to Dr. Brown.
+
+11/9/23 - Reviewing parts list and ensuring components are suitable for the application. Started picking out an embedded pc to collect data from the osciliscope.
+
+11/14/23 - Class meeting and we continued to find and order parts necessary to the building of our prototype. 
+
+
+11/16/23 - Team meeting to discuss what to do next. Also first round of parts have arrived so we began to test them to ensure they are functional and ready to be put into our first prototype.
+
+11/21/23 - Class meeting, multiple boxes arrived so we discussed work to do over the break. Also distributed parts for verification. We have begun to work on sprint 3 presentation.
+
+
+
+
