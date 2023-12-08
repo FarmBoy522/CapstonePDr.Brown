@@ -1,0 +1,81 @@
+20230912-
+	-Meet with assigned group for first time 
+	-Read over project details begin to think about what part i want to tackle
+	-We made a github
+20230914-
+	-Worked on Organizing Github
+	-Michael emailed Brown about project
+	-Created Discord group
+	-Michael chosen as Scrum Leader
+20230919-
+	-Met with Dr. Brown to see what they already have
+	-chose area of focus for each member (code for me)
+	-Preliminary Parts list
+20230921-
+	-Began researching ways to take in raw data and make it usable
+	-Maybe could just be microcomputer 
+20230926-
+	- Meeting on friday with Dr. Brown
+	- Continuing to research ways to convert raw data to usable form
+	- Straying away from Microcomputer to ADC system instead
+20230928-
+	-Starting to compile information for sprint 1 presentation
+	-Read fourms with other people who have attempted to do similar projects
+	 using ADC - not looking great
+	-Looking at commercial products designed for specifically what i need they're
+	 all very expensive.
+20231003-
+	-looked over project documents added anything i needed to add for code
+	-Tried to obtain file of raw data to see what im working with but the 
+	 system they currently use pre formats the data so its pretty useless
+20231005-
+	Sprint 1 Presentation
+20231010-
+	-Career Fair
+20231012-
+	-Continue to research easiest way to accomplish purpose of device
+	-examine electrical system schematic to see what needs to be implimented in 
+	 addition to ADC seems pretty straightforward
+20231017-
+	-Went over test plan with everyone
+	-Explained the issue with collecting raw data and trying to format it
+20231019-
+	-Explained how i thought essentially creating an osciloscope from nothing 
+	 was going to be a essentially impossible task for me to accomplish to TA 
+	 he agreed
+20231024-
+	-Talked to Dr.Brown about the possibility of using his osciloscope for project
+	 he was fine with that
+20231026- 
+	-Discussed with group new direction for software side of things discussed
+	 ways to run osciloscope in PUD maybe a small computer running windows would
+	 work
+20231031-
+	-Worked on Sprint 2 presentation etc.
+20231102-
+	-Sprint 2 demo
+20231107-
+	- Started messing around with picoscope software
+	- Settings file Dr.Brown provided doesnt seem to be working
+	- Also picoscope doesnt record data correctly 
+20231109-
+	-Figured out i was using a newer version of picoscope software downloaded
+	 older version still isnt recording data correctly
+20231114-
+	-Got picoscope to record correctly by manually setting my own settings
+	 will have to see if these settings work for actual testing but for now its 
+	 fine for just messing around with
+20231116-
+	-started messing around with python code to run picoscope automatically
+	 some success but i need to see how it runs on actual unit that will be in box
+	 exception handling may be an issue
+20231121-
+	-Not in class
+20231128-
+	-Continued to mess around with scripts 
+20231130-
+	-started messing around with pi pico to see how i can impliment different
+	 light scripts. Pretty straight forward low power might be a challenge due
+	 to pico only accepting up to 3.3V
+20231205-
+	writing code for pico to demonstrate some basic functionality 
