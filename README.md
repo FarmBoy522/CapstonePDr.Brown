@@ -7,6 +7,7 @@ Vision Statement
 Produce a handheld ultrasound inspection device for inspecting a bridge/structural component for faults in the field. This handheld unit gathers and stores test data collected over time for 48 to 72 hours.
 
 Product Backlog
+(current status shown in the issues tab)
 
 Hardware:
 	•	Design an outer casing to contain the electronics and test equipment.
