@@ -54,12 +54,22 @@
 •	Troubleshoot relay 13. (relay works, control circuit must be faulty)
 •	Assist drilling mounting holes for cooling fans
 8 Feb
-•	Sprint 1 presentation
-13Feb
+•	Sprint presentation
 •	500 v bus energization tests 
-•	Capacitor 500v energization test
+•	Capacitor 475v energization test
 •	Capacitor discharge test 
-•	Troubleshoot relay 13 control circuit
+•	Troubleshoot relay 13 control circuit (cause: pull up resistor)
+10Feb
+•	Update electric schematic
+12Feb
+•	Bundle some wiring for organization
+•	Modify circuit to fix relay 13 (add MOSFET)
+•	Connect push buttons electrically to 5 v supply (3 pushbuttons)
+•	Fix labels for LED 2 and 12
+13Feb
+•	Update electrical schematic (version 16)
+•	Wire Tx to 500 v bus
+
 
 
 
