@@ -57,6 +57,35 @@
 
 12/7/23 - Presented our project in the class time.
 
+------ Spring '24 -----
+
+1/11/24 - First day of class, met in the IC and talked about changes to the class format.
+
+1/16/24 - Class meeting to ensure that all the work we wish to complete this semester is on GitHub. Confirm that everyone has tasks to work on. We talked about the next steps we will make to progress with our project.
+
+1/18/24 - Class meeting in which we met with a professor and then went to our lab to plan where we will drill our case to mount hardware.
+
+1/23/24 - In class meeting, began drilling our case and prototyping case layouts. We also realized we need more items from Amazon and digikey so I ordered them and uploaded the receipts.
+
+1/25/24 - Meeting in which we worked on our product vision and backlog. We also identified more items we need from Amazon so I started the process of ordering them.
+
+1/30/24 - Identified more parts we may need. Also worked on the SDD and SRS to make them reflect the progress we have made in our project.
+
+2/1/24 - Began working on the sprint presentation. Added the progress we have made in building our physical device.
+
+2/6/24 - Preparing for our sprint presenation. Still working on our building the device and finalizing the component positions.
+
+2/8/24 - Sprint presentation but I was unable to attend due to a work trip.
+
+2/13/24 - In class meeting in which we talked to the TA's about our roles and progress. We also discussed the idea of getting our project ready to be handed off if we are not able to complete it before the end of the semester. Worked on adding up our orders and renewing our amazon tax exempt status.
+
+2/15/24 - Chose a new scrum master to reflect a change in direction of the project from hardware to software. This was done during an in class meeting where we worked on testing some circuits and worked towards getting the osciliscope controllable via python.
+
+2/20/24 - In class meeting in which we charged the battery to ensure it was functioning correctly. I brought in parts that arrived over the weekend and we figured out how to control the osciliscope from Python.
+
+
+
+
 
 
 
