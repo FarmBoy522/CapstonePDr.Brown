@@ -1,0 +1,83 @@
+12Jan
+•	Review project
+•	Review scrum
+•	Review documentation requirements
+•	Review product vision statement
+•	Review project backlog
+•	Schedule meeting with product owner
+16Jan
+•	Meeting with team
+•	Vision statement
+•	Project Backlog
+17Jan
+•	Meeting with client
+18Jan
+•	Plan layout for physical components/ plan where to drill through casing
+•	Part inventory/ order remaining parts.
+20Jan 
+•	Design heat ventilation cover in cad. Transfer to .stl file. Resin prints for the part/prototype.
+•	Resin prints for spacing blocks.
+•	Soldering work for fan temperature controlling board.
+23Jan
+•	Determine proper placement for internal components and prep for drilling
+•	Drill case penetrations 
+25Jan
+•	Drill case penetrations 
+•	Admin/ group organization
+27-28Jan
+•	Drill case penetrations 
+•	Print case labels
+•	Mount labels onto exterior casing
+•	Design ventilation covers in CAD and reformat into .stl file format
+•	3d resin print ventilation covers
+•	Design spacers in CAD and reformat into .stl file format
+•	3d resin print mounting components (spacers and board mounting)
+30Jan
+•	Apply sealant to external penetrations.
+•	Mounting components internally
+•	Rout electrical cables
+31Jan
+•	Apply sealant to external penetrations.
+•	Mounting components internally
+•	Rout electrical cables
+1Feb
+•	Test electrical connections for proper operation
+•	Update backlog
+•	Prepare demonstration video for sprint presentation
+3-4 Feb
+•	Review/edit SRS documentation
+•	Review/edit SDD documentation
+•	Review/edit sprint 1 presentation
+•	Construct spare mosfets circuit board (in case of failure in main circuit)
+6 Feb
+•	Status meeting with Ta
+•	Troubleshoot relay 13. (relay works, control circuit must be faulty)
+•	Assist drilling mounting holes for cooling fans
+8 Feb
+•	Sprint presentation
+•	500 v bus energization tests 
+•	Capacitor 475v energization test
+•	Capacitor discharge test 
+•	Troubleshoot relay 13 control circuit (cause: pull up resistor)
+10Feb
+•	Update electric schematic
+12Feb
+•	Bundle some wiring for organization
+•	Modify circuit to fix relay 13 (add MOSFET)
+•	Connect push buttons electrically to 5 v supply (3 pushbuttons)
+•	Fix labels for LED 2 and 12
+13Feb
+•	Update electrical schematic (version 16)
+•	Wire Tx to 500 v bus
+•	Test voltage sensor/ resistor voltage drop 500v to 3v
+15Feb
+•	Perform 1 hour charge test
+•	Edit SRS and SDD
+•	Perform peer evaluation
+20Feb
+•	Edit SRS and SDD
+
+
+
+
+
