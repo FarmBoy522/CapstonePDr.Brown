@@ -1,0 +1,91 @@
+9/14/23 - Elected scrum master, organized information, coordinated a meeting with Dr. Brown, and we set up our Github.
+
+9/15/23 - Met with Dr. Brown to discuss the system requirements and operation. Team meeting to discuss basic ideas and get ready for our next meeting Tuesday.
+
+9/19/23 - In class meeting to discuss our requirements, backlog, and vision statement. We also divided the tasks between the team members. I am in charge of the casing and have begun researching capable cases we can use.
+
+9/21/23 - In class meeting in which we reviewed the progress we made on our respective tasks. I am in charge of the SDD which is due the 19th. Added the template to the github as a base for our SDD.
+
+9/26/23 - In class meeting where we reviewed our progress on our respective tasks. This included ensuring everyone's ideas would meet the requirements and functionality we need. Then we started working on our respective tasks which for me was the SDD.
+
+9/28/23 - Worked on the SDD. Then we had an in-class meeting discussing our progress on our respective tasks. We then all started to work on the SDD and SRS as the first version of those documents are due tomorrow. 
+
+10/3/23 - Team meeting and coordination of the sprint 1 presentation. I created the background section of the presentation and made the drive that will house our shared documents.
+
+10/5/23 - Presentation of the sprint 1 progress. Also arranging the components in CAD.
+
+10/10/23 - Prototyped the case layout in solidworks.
+
+10/12/23 - In class meeting in which we discussed the option of using the lab osciliscope within our system. This would simplify the data collection side of the project.
+
+10/17/23 - In class meeting where we discussed and worked on the test plan that is due the 18th.
+
+10/18/23 - Worked on the test plan to help ensure it is ready for submission.
+
+10/22/23 - Helped develop the SRS.
+
+10/24/23 - Working on Tax exempt purchases. Made some additions to the SDD.
+
+10/26/23 - In class meeting - Went to the SGA to pick up the tax exempt paperwork - Helped compile individual parts lists into a single master list. Sent out emails to parts supplier to get recognition of tax exempt status.
+
+10/31/23 - In class meeting - Worked on SDD and SRS. Also sent follow up emails to digikey and eco-worthy to see if there are any updates to our attempt to get tax-exempt status. Also worked on sprint 2 demo presentation.
+
+11/2/23 - Presented sprint 2 demo, no updates to getting tax-exempt status with any supplier other than Amazon.
+
+11/3/23 - DigiKey replied that our account has been marked as text exempt.
+
+11/7/23 - Ordered digi-key parts from our list and made sure the receipt gets to Dr. Brown.
+
+11/9/23 - Reviewing parts list and ensuring components are suitable for the application. Started picking out an embedded pc to collect data from the osciliscope.
+
+11/14/23 - Class meeting and we continued to find and order parts necessary to the building of our prototype. 
+
+
+11/16/23 - Team meeting to discuss what to do next. Also first round of parts have arrived so we began to test them to ensure they are functional and ready to be put into our first prototype.
+
+11/21/23 - Class meeting, multiple boxes arrived so we discussed work to do over the break. Also distributed parts for verification. We have begun to work on sprint 3 presentation.
+
+11/23/23 - More parts arrived, reviewed the presentation to see what it needs.
+
+11/28/23 - Delivered parts to school and met in class.Discussed how to move forward with our project and ordered the last parts we'll need for this semester.
+
+11/30/23 - Presentations began and I worked on finalizing our presentation. 
+
+12/5/23 - Recieved more parts and delivered them to Michael so he can test them over the break.
+
+12/6/23 - Working on our 3 minute video and reviewing our presenation before we present.
+
+12/7/23 - Presented our project in the class time.
+
+------ Spring '24 -----
+
+1/11/24 - First day of class, met in the IC and talked about changes to the class format.
+
+1/16/24 - Class meeting to ensure that all the work we wish to complete this semester is on GitHub. Confirm that everyone has tasks to work on. We talked about the next steps we will make to progress with our project.
+
+1/18/24 - Class meeting in which we met with a professor and then went to our lab to plan where we will drill our case to mount hardware.
+
+1/23/24 - In class meeting, began drilling our case and prototyping case layouts. We also realized we need more items from Amazon and digikey so I ordered them and uploaded the receipts.
+
+1/25/24 - Meeting in which we worked on our product vision and backlog. We also identified more items we need from Amazon so I started the process of ordering them.
+
+1/30/24 - Identified more parts we may need. Also worked on the SDD and SRS to make them reflect the progress we have made in our project.
+
+2/1/24 - Began working on the sprint presentation. Added the progress we have made in building our physical device.
+
+2/6/24 - Preparing for our sprint presenation. Still working on our building the device and finalizing the component positions.
+
+2/8/24 - Sprint presentation but I was unable to attend due to a work trip.
+
+2/13/24 - In class meeting in which we talked to the TA's about our roles and progress. We also discussed the idea of getting our project ready to be handed off if we are not able to complete it before the end of the semester. Worked on adding up our orders and renewing our amazon tax exempt status.
+
+2/15/24 - Chose a new scrum master to reflect a change in direction of the project from hardware to software. This was done during an in class meeting where we worked on testing some circuits and worked towards getting the osciliscope controllable via python.
+
+2/20/24 - In class meeting in which we charged the battery to ensure it was functioning correctly. I brought in parts that arrived over the weekend and we figured out how to control the osciliscope from Python.
+
+
+
+
+
+
+
