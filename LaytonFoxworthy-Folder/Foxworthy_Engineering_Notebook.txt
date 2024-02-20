@@ -79,3 +79,22 @@
 	 to pico only accepting up to 3.3V
 20231205-
 	writing code for pico to demonstrate some basic functionality 
+20240116-
+	First meeting with team discussed backlog and product status etc.
+20240117-
+	Met with Dr.Brown to discuss state of progress etc.
+20240118-
+	Set up new computer downloaded all the software we need went through basic startup
+20240123-
+	Worked on testing ADC onboard pico demonstrated ability to take analog input and convert it to a digital variable
+20240125-
+	Not in class
+20240129-
+	Worked with component provided by Michael to test ability of pico to gate MOSFET on and off
+20240202-
+	Began to code logic into pico test code to turn indicator lights on and off depending on state of the code
+20240208-
+	Sprint 1 demo
+20240215-
+	Worked on trying to get picoSDK commands to work on Python using command wraps this was 
+	unsuccessful will need to continue to work on this next week.
