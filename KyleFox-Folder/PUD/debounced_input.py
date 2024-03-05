@@ -1,8 +1,14 @@
+"""
+From JMCCLIN2 on github
+https://github.com/jmcclin2/updebouncein
+"""
 from machine import Pin, Timer
 import time
 
+
 class DebouncedInput:
     """Micropython Debounced GPIO Input Class"""
+    # Initializes the class child with pin number, callback function, pin_pull direction, pin_logic direction, and debounce wait time.
     def __init__(self, pin_num, callback, pin_pull=None, pin_logic_pressed=True, debounce_ms=100):
         self.pin_num = pin_num
         self.pin_pull = pin_pull
@@ -35,13 +41,15 @@ class DebouncedInput:
                 ms_since_last_press = 0
             else:
                 ms_since_last_press = time.ticks_diff(self.last_press_ms, self.last_release_ms) + 2*self.debounce_ms
-            self.callback(self.pin_num, True, ms_since_last_press)
+            #self.callback(self.pin_num, True, ms_since_last_press)
+            self.callback(True)
         elif ((self.expected_value == False) and (current_value == False)):
             #print("Button released")
             self.expected_value = True
             self.last_release_ms = time.ticks_ms()
             ms_duration_of_press = time.ticks_diff(self.last_release_ms, self.last_press_ms) + 2*self.debounce_ms
-            self.callback(self.pin_num, False, ms_duration_of_press)
+            #self.callback(self.pin_num, False, ms_duration_of_press)
+            self.callback(False)
         #else:
             #print("Missed edge: expected:", self.expected_value, " actual:", current_value)
             
