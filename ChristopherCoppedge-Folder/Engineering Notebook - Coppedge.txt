@@ -83,6 +83,10 @@
 
 2/20/24 - In class meeting in which we charged the battery to ensure it was functioning correctly. I brought in parts that arrived over the weekend and we figured out how to control the osciliscope from Python.
 
+2/22/24 - Spent the in class meeting editing the SRS based on feedback from the TA.
+
+2/27/24 - Also spent the in class meeting editing the SRS based on feedback from the TA.
+
 
 
 
