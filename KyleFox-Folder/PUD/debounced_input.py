@@ -24,6 +24,7 @@ class DebouncedInput:
         self.db_timer = Timer(-1)
         self.expected_value = True
 
+    # Check timer 
     def __ButtonDebounceTimerExpired(self, timer):
            
         current_value = False   
@@ -34,31 +35,31 @@ class DebouncedInput:
             current_value = False
         
         if ((self.expected_value == True) and (current_value == True)):
-            #print("Button pressed")
             self.expected_value = False
             self.last_press_ms = time.ticks_ms()
+            
             if (self.last_release_ms == 0):
                 ms_since_last_press = 0
             else:
                 ms_since_last_press = time.ticks_diff(self.last_press_ms, self.last_release_ms) + 2*self.debounce_ms
+                
             #self.callback(self.pin_num, True, ms_since_last_press)
             self.callback(True)
+            
         elif ((self.expected_value == False) and (current_value == False)):
-            #print("Button released")
             self.expected_value = True
             self.last_release_ms = time.ticks_ms()
             ms_duration_of_press = time.ticks_diff(self.last_release_ms, self.last_press_ms) + 2*self.debounce_ms
             #self.callback(self.pin_num, False, ms_duration_of_press)
             self.callback(False)
-        #else:
-            #print("Missed edge: expected:", self.expected_value, " actual:", current_value)
             
         # Re-enable pin interrupt
         self.pin.irq(self.__ButtonHandler, Pin.IRQ_FALLING | Pin.IRQ_RISING)
 
+    # Set timer and disable pin interrupt
     def __ButtonHandler(self, pin):
         
-        #print("IRQ with flags:", pin.irq().flags())
+        # Set timer
         self.db_timer.init(mode=Timer.ONE_SHOT, period=self.debounce_ms, callback=self.__ButtonDebounceTimerExpired)
         
         # Disable pin interrupt
