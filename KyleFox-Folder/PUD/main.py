@@ -1,4 +1,4 @@
-import machine
+from machine import Pin
 import utime
 import rp2
 
@@ -39,10 +39,14 @@ def blink():
 
 # Init state machine with "blink" program
 # (state machine 0, running at 2kHz, base pin is GP25 (LED))
-sm = rp2.StateMachine(0, blink, freq=2000, set_base=machine.Pin(25))
+sm = rp2.StateMachine(0, blink, freq=2000, set_base=machine.Pin(14))
 
 # Continually start and stop state machine
 utime.sleep(2)
+
+p0 = machine.Pin(15, Pin.OUT)
+p0.value(1)
+
 while True:
     print("Starting state machine...")
     sm.active(1)
