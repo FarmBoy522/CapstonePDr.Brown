@@ -1,6 +1,8 @@
 """
 From JMCCLIN2 on github
 https://github.com/jmcclin2/updebouncein
+Modified by Kyle Fox
+    Changed Callback function to only send false and true boolean
 """
 from machine import Pin, Timer
 import time
