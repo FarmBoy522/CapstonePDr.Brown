@@ -44,18 +44,6 @@ def pulse_management():
     nop()
     jmp("noperation")
 
-# Create the StateMachine with the pulse_management program, outputting on Pin(14).
-sm = rp2.StateMachine(0, pulse_management, freq=500000, set_base=Pin(14))
-
-# Load the total pulse value into the TX FIFO then load into Y register.
-sm.put(49)					# Total pulses of 50
-sm.exec("pull()")			# Pull from TX FIFO to OSR
-sm.exec("mov(y,osr)")		# Move from OSR to Y
-
-# Start the StateMachine.
-sm.active(1)
-
-
 def ControlStateMachine(PinArray):
     flag = 1
     global state
@@ -141,10 +129,12 @@ def state1(timeset, piosm, PinArray):
     #start charging
     time.sleep(600) # Wait 10min before checking ADC
     if voltage1.read_u16() > 100:
-        pulse()
+        sm.active(1)
+        time.sleep_ms(100)
     else:
         time.sleep(60)
         fail += 1
+    sm.active(0)
     #decriment time from total test time
     print("imagine code here")
     
@@ -166,6 +156,17 @@ def state2(currentset):
 if __name__ == '__main__':
     global state
     state = 0
+    
+    # Create the StateMachine with the pulse_management program, outputting on Pin(14).
+    sm = rp2.StateMachine(0, pulse_management, freq=500000, set_base=Pin(14))
+
+    # Load the total pulse value into the TX FIFO then load into Y register.
+    sm.put(49)					# Total pulses of 50
+    sm.exec("pull()")			# Pull from TX FIFO to OSR
+    sm.exec("mov(y,osr)")		# Move from OSR to Y
+
+    # Start the StateMachine.
+    #sm.active(1)    
     
     PinArray = setandinit()
     ControlStateMachine(PinArray)
