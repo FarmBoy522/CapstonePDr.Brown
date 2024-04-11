@@ -57,7 +57,13 @@
 
 12/7/23 - Presented our project in the class time.
 
+
+
+
 ------ Spring '24 -----
+
+
+
 
 1/11/24 - First day of class, met in the IC and talked about changes to the class format.
 
@@ -102,6 +108,12 @@
 3/29/24 - Met in class and applied sealent to the PUD. Worked on revising the SRS and SDD.
 
 4/2/24 - Working on the SDD in a class meeting.
+
+4/4/24 - Made final edits to the test plan during an in class meeting.
+
+4/9/24 - Met in class to discuss what is needed to progress with the project. Reviewed the SRS and SDD, then created a Github issue to document the paperwork review.\
+
+4/11/24 - In class meeting in which we talked to the professors about our progress and presenting to an IEEE event. Also reviewed the SRS and SDD.
 
 
 
