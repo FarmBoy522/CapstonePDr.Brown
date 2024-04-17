@@ -6,14 +6,14 @@ import time
 from machine import Pin
 import rp2
 
-@rp2.asm_pio(set_init=rp2.PIO.OUT_LOW)
+@rp2.asm_pio(set_init=rp2.PIO.OUT_HIGH)
 def pulse_management():
     # Total Loop Label
     label("total_pulse")
     
     # Cycles: 1 + 6 + 32 * (2 + 1) = 117 cycles
     # 1 set, 5 set + delay, 32 label + nop + jmp, repeat 3 times
-    set(pins, 1)
+    set(pins, 0)
     set(x, 1)                   [5]
     label("delay_high")
     nop()                       [29]
@@ -22,7 +22,7 @@ def pulse_management():
     # Cycles: 1 + 1 + 6 + 157 * (30 + 1) = 5115 cycles
     # 1 nop, 1 set, 5 set + delay, 157 label + nop + jmp, repeat 31 times
     nop()
-    set(pins, 0)
+    set(pins, 1)
     set(x, 30)                  [5]
     label("delay_low")
     nop()                       [29]
@@ -40,12 +40,15 @@ def pulse_management():
     jmp("noperation")
 
 # Create the StateMachine with the blink_1hz program, outputting on Pin(25).
-sm = rp2.StateMachine(0, pulse_management, freq=500000, set_base=Pin(14), jmp_pin=Pin(13))
+sm = rp2.StateMachine(0, pulse_management, freq=500000, set_base=Pin(14))
 
 # Load the total pulse value into the TX FIFO then load into Y register.
 sm.put(49)					# Total pulses of 50
 sm.exec("pull()")			# Pull from TX FIFO to OSR
 sm.exec("mov(y,osr)")		# Move from OSR to Y
+
+time.sleep(15)
+print("DATA NOW")
 
 # Start the StateMachine.
 sm.active(1)
